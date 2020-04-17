@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ritam Dutt | Binny Mathew</title>
+    <link>https://binny-mathew.github.io/authors/ritam-dutt/</link>
+      <atom:link href="https://binny-mathew.github.io/authors/ritam-dutt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ritam Dutt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binny-mathew.github.io/img/binny</url>
+      <title>Ritam Dutt</title>
+      <link>https://binny-mathew.github.io/authors/ritam-dutt/</link>
+    </image>
+    
+    <item>
+      <title>Deep Dive into Anonymity: Large Scale Analysis of Quora Questions</title>
+      <link>https://binny-mathew.github.io/publication/dblp-confsocinfo-mathew-dmg-019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://binny-mathew.github.io/publication/dblp-confsocinfo-mathew-dmg-019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spread of Hate Speech in Online Social Media</title>
+      <link>https://binny-mathew.github.io/publication/dblp-confwebsci-mathew-dg-019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://binny-mathew.github.io/publication/dblp-confwebsci-mathew-dg-019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Dive into Anonymity: A Large Scale Analysis of Quora Questions</title>
+      <link>https://binny-mathew.github.io/publication/dblp-journalscorrabs-1811-07223/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://binny-mathew.github.io/publication/dblp-journalscorrabs-1811-07223/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spread of hate speech in online social media</title>
+      <link>https://binny-mathew.github.io/publication/dblp-journalscorrabs-1812-01693/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://binny-mathew.github.io/publication/dblp-journalscorrabs-1812-01693/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

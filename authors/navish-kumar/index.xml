@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Navish Kumar | Binny Mathew</title>
+    <link>https://binny-mathew.github.io/authors/navish-kumar/</link>
+      <atom:link href="https://binny-mathew.github.io/authors/navish-kumar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Navish Kumar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binny-mathew.github.io/img/binny</url>
+      <title>Navish Kumar</title>
+      <link>https://binny-mathew.github.io/authors/navish-kumar/</link>
+    </image>
+    
+    <item>
+      <title>Interaction dynamics between hate and counter users on Twitter</title>
+      <link>https://binny-mathew.github.io/publication/dblp-confcomad-mathew-kg-020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://binny-mathew.github.io/publication/dblp-confcomad-mathew-kg-020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the hate and counter speech accounts on Twitter</title>
+      <link>https://binny-mathew.github.io/publication/dblp-journalscorrabs-1812-02712/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://binny-mathew.github.io/publication/dblp-journalscorrabs-1812-02712/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

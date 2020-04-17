@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unnikrishnan T. A | Binny Mathew</title>
+    <link>https://binny-mathew.github.io/authors/unnikrishnan-t.-a/</link>
+      <atom:link href="https://binny-mathew.github.io/authors/unnikrishnan-t.-a/index.xml" rel="self" type="application/rss+xml" />
+    <description>Unnikrishnan T. A</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binny-mathew.github.io/img/binny</url>
+      <title>Unnikrishnan T. A</title>
+      <link>https://binny-mathew.github.io/authors/unnikrishnan-t.-a/</link>
+    </image>
+    
+    <item>
+      <title>Mining Twitter Conversations around E-commerce Promotional Events</title>
+      <link>https://binny-mathew.github.io/publication/dblp-journalscorrabs-1802-01159/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://binny-mathew.github.io/publication/dblp-journalscorrabs-1802-01159/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining Twitter Conversations around E-commerce Promotional Events</title>
+      <link>https://binny-mathew.github.io/publication/dblp-confcscw-mathew-a-0-gd-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://binny-mathew.github.io/publication/dblp-confcscw-mathew-a-0-gd-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

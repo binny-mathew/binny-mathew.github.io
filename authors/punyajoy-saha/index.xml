@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Punyajoy Saha | Binny Mathew</title>
+    <link>https://binny-mathew.github.io/authors/punyajoy-saha/</link>
+      <atom:link href="https://binny-mathew.github.io/authors/punyajoy-saha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Punyajoy Saha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binny-mathew.github.io/img/binny</url>
+      <title>Punyajoy Saha</title>
+      <link>https://binny-mathew.github.io/authors/punyajoy-saha/</link>
+    </image>
+    
+    <item>
+      <title>HateMonitors: Language Agnostic Abuse Detection in Social Media</title>
+      <link>https://binny-mathew.github.io/publication/dblp-conffire-saha-mg-019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://binny-mathew.github.io/publication/dblp-conffire-saha-mg-019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HateMonitors: Language Agnostic Abuse Detection in Social Media</title>
+      <link>https://binny-mathew.github.io/publication/dblp-journalscorrabs-1909-12642/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://binny-mathew.github.io/publication/dblp-journalscorrabs-1909-12642/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal effects of Unmoderated Hate speech in Gab</title>
+      <link>https://binny-mathew.github.io/publication/dblp-journalscorrabs-1909-10966/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://binny-mathew.github.io/publication/dblp-journalscorrabs-1909-10966/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thou Shalt Not Hate: Countering Online Hate Speech</title>
+      <link>https://binny-mathew.github.io/publication/dblp-conficwsm-mathew-strsmg-019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://binny-mathew.github.io/publication/dblp-conficwsm-mathew-strsmg-019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hateminers : Detecting Hate speech against Women</title>
+      <link>https://binny-mathew.github.io/publication/dblp-journalscorrabs-1812-06700/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://binny-mathew.github.io/publication/dblp-journalscorrabs-1812-06700/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
